@@ -1,0 +1,8 @@
+{
+  "name": "PlayBeat Luxe IPTV - Premium Streaming Platform",
+  "description": "Premium cinematic IPTV streaming platform featuring Live TV, Movies, Series, Sports, Music, and personalized playlists with 4K UHD playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
